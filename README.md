@@ -1,4 +1,4 @@
-https://edusaint.com/wp-content/uploads/2020/02/reproduction.jpg### Hi there 👋
+Hi there 👋
 
 I'm Ana and a researcher on intuition in decision-making. I'm learning **how to code website**. It's very interesting.
 
