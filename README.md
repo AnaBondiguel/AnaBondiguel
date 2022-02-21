@@ -9,4 +9,4 @@ I'm Ana and a researcher on intuition in decision-making. I'm learning **how to 
 - 🤔 I’m looking for help with coding website.
 - 🍇 I like eating🥞, cooking🥑, tasting all delicious food in the world🍱, flamenco dancing💃🏻, traveling 🧳 , reading 📖 , playing 🎹 
 
-[logo]: https://edusaint.com/wp-content/uploads/2020/02/reproduction.jpg "Sun Flowers"
+![alt text](https://static01.nyt.com/images/2021/01/26/well/well-foods-microbiome/well-foods-microbiome-superJumbo.jpg?quality=75&auto=webp)
