@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm YouTuber
+I'm Ana and a researcher on intuition in decision-making. I'm learning how to code website.
 
 
 <!--
@@ -8,8 +8,8 @@ I'm YouTuber
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a research project: "The role of intuitive and analytical decision-makings in entrepreneurial opportunity development"
+- 🌱 I’m currently learning how to code website.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
